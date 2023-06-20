@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "1 - Tool Set Jealousy (K9's Music School)"
-date:   2023-01-05
-tags: MusicSchool
+title: "1 - Tool Set Jealousy"
+date: 2023-01-05
+category: K9's Music Tips
 ---
 
 ## _It doesn't matter what tools you have, you just got to know how to use them._

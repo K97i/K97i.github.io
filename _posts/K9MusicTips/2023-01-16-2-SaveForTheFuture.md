@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "2 - Save For The Future (K9's Music School)"
-date:   2023-01-16
-tags: MusicSchool
+title: "2 - Save For The Future"
+date: 2023-01-16
+category: K9's Music Tips
 ---
 
 ## _Save all your work so that future you can reminisce and cringe._

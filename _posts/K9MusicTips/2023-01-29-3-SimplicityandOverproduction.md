@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "3 - Simplicity and Overproduction (K9's Music School)"
-date:   2023-01-29
-tags: MusicSchool
+title: "3 - Simplicity and Overproduction"
+date: 2023-01-29
+category: K9's Music Tips
 ---
 
 ### *Simpler is almost always better.*
