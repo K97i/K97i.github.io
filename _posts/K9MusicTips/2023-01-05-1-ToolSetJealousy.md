@@ -3,6 +3,7 @@ layout: post
 title: "1 - Tool Set Jealousy"
 date: 2023-01-05
 category: K9's Music Tips
+description: "In which K9 talks about using the bare minimum"
 ---
 
 ## _It doesn't matter what tools you have, you just got to know how to use them._

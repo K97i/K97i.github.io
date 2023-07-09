@@ -2,7 +2,6 @@
  * Site header
  */
 .site-header {
-  border-top: 5px solid $border-color-03;
   border-bottom: 1px solid $border-color-01;
   min-height: $spacing-unit * 1.865;
   line-height: $base-line-height * $base-font-size * 2.25;
@@ -207,6 +206,7 @@
 
 .page-heading {
   @include relative-font-size(2);
+  text-align: center;
 }
 
 .post-list-heading {
@@ -214,11 +214,28 @@
 }
 
 .post-list {
-  margin-left: 0;
-  list-style: none;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  flex-grow: 1;
+}
 
-  > li {
-    margin-bottom: $spacing-unit;
+.cat-list {
+  margin: 2px;
+  width: 49%;
+  display: inline-block;
+  border: 2px solid lighten($color: $background-color, $amount: 5);
+  border-radius: 10px;
+  overflow: hidden;
+  background-color: lighten($color: $background-color, $amount: 2);
+
+  h1 {
+    @include relative-font-size(1.5);
+    background-color: lighten($color: $background-color, $amount: 5);
+    padding: 10px 0px;
+    margin-bottom: 12px;
+    text-align: center;
   }
 }
 
@@ -238,22 +255,29 @@
  * Posts
  */
 .post-header {
-  margin-bottom: $spacing-unit;
+  margin-bottom: $spacing-unit * 0.5;
+  width: auto;
+  text-align: center;
+  background-color: lighten($color: $background-color, $amount: 15);
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-bottom: 0px;
 }
 
 .post-title,
 .post-content h1 {
-  @include relative-font-size(2.625);
+  @include relative-font-size(2);
   letter-spacing: -1px;
   line-height: 1.15;
 
   @media screen and (min-width: $on-large) {
-    @include relative-font-size(2.625);
+    @include relative-font-size(2);
   }
 }
 
 .post-content {
-  margin-bottom: $spacing-unit;
+  margin-bottom: 0px;
+  padding: 0 10px;
 
   h1, h2, h3, h4, h5, h6 { margin-top: $spacing-unit }
 

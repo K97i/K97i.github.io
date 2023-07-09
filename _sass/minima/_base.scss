@@ -162,6 +162,7 @@ pre,
 code {
   font-family: $code-font-family;
   font-size: 0.9375em;
+  font-weight: 200;
   border: 1px solid $border-color-01;
   border-radius: 3px;
   background-color: $code-background-color;
@@ -183,16 +184,18 @@ pre {
 }
 
 .highlight {
-  border-radius: 3px;
+  border-radius: 5px;
   background: $code-background-color;
   @extend %vertical-rhythm;
 
   .highlighter-rouge & {
     background: $code-background-color;
   }
+
+  pre {
+    padding: 15px;
+  }
 }
-
-
 
 /**
  * Wrapper
@@ -278,4 +281,8 @@ table {
     -webkit-overflow-scrolling: touch;
             -ms-overflow-style: -ms-autohiding-scrollbar;
   }
+}
+
+audio {
+  width: 100%;
 }

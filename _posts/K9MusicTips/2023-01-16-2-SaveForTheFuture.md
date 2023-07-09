@@ -3,6 +3,7 @@ layout: post
 title: "2 - Save For The Future"
 date: 2023-01-16
 category: K9's Music Tips
+description: "In which K9 talks about hoarding"
 ---
 
 ## _Save all your work so that future you can reminisce and cringe._

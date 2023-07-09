@@ -3,6 +3,7 @@ layout: post
 title: "3 - Simplicity and Overproduction"
 date: 2023-01-29
 category: K9's Music Tips
+description: "In which K9 talks about adding too much effort into one project file"
 ---
 
 ### *Simpler is almost always better.*
