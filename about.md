@@ -14,8 +14,6 @@ K97i is ~~an award-winning record producer, actor, and incumbent President of th
 
 I composed, produced, and wrote (in that order) [**Farewell to the Sea**](https://youtu.be/kfefDBrKH34) and [**Crystalized**](https://youtu.be/w50t7xC3vVY) on the [Crystalized Fan Album](https://www.youtube.com/playlist?list=PL9EtwJKX5d3EbBWYd4Ffjj8m5dm0b0VAp) by the [Realm of Harmony](https://www.youtube.com/@R0H). I also produced the [Council of the Crystal King Anthem](https://youtu.be/itqw1gI_R7M).
 
-I am also responsible for some of the front-end work for [Specify](https://github.com/Spec-ify/). If anything broke, it's probably my fault, sorry.
-
 ## The most important question: FL Studio or Ableton?
 
 I use both. I know, cats and dogs living together, mass hysteria.
