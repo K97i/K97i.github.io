@@ -12,7 +12,7 @@ K97i is ~~an award-winning record producer, actor, and incumbent President of th
 
 ## Give me some examples of the stuff you've made
 
-For the songs I did with [Realm of Harmony](https://www.youtube.com/@R0H),
+For the songs I did with [Realm of Harmony](https://www.youtube.com/@SOTE_RoH),
 
 I composed, produced, and wrote ***Farewell to the Sea***, an *orchestral rock ballad*:
 
