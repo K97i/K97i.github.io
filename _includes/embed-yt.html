@@ -1,14 +1,21 @@
-<div style="display: flex; 
-    justify-content: center;
-    align-items: center;
-    margin-bottom: 15px;">
+<div style="margin-bottom: 15px;
+            {%- unless include.float -%}
+                display: flex; 
+                justify-content: center;
+                align-items: center;
+            {% endunless %}
+            ">
     <iframe
-        width="640"
-        height="360"
+        width="{{ include.width | default: 500 }}"
         src="https://www.youtube-nocookie.com/embed/{{ include.id }}"
         title="YouTube video player" 
         frameborder="0" 
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-        allowfullscreen>
+        allowfullscreen
+        style="aspect-ratio: 16 / 9;
+                {%- if include.float -%}
+                    float: {{ include.float }};
+                {% endif %}
+                ">
     </iframe>
 </div>
