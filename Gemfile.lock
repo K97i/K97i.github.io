@@ -249,7 +249,7 @@ GEM
       ethon (>= 0.9.0)
     tzinfo (1.2.11)
       thread_safe (~> 0.1)
-    tzinfo-data (1.2022.7)
+    tzinfo-data (1.2024.1)
       tzinfo (>= 1.0.0)
     unf (0.1.4)
       unf_ext
@@ -268,7 +268,6 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   http_parser.rb (~> 0.6.0)
-  jekyll-feed (~> 0.12)
   jekyll-redirect-from
   minima (~> 2.5)
   tzinfo (~> 1.2)
