@@ -1,5 +1,4 @@
-<div style="margin-bottom: 15px;
-            {%- unless include.float -%}
+<div style="{%- unless include.float -%}
                 display: flex; 
                 justify-content: center;
                 align-items: center;
@@ -13,6 +12,7 @@
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
         allowfullscreen
         style="aspect-ratio: 16 / 9;
+                margin: {{ include.margin | default: '15px 0px' }};
                 {%- if include.float -%}
                     float: {{ include.float }};
                 {% endif %}

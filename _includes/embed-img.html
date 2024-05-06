@@ -9,7 +9,7 @@
                         float: {{ include.float }};
                     {% endif %}
                     
-                    margin: 0px 15px;
+                    margin: {{ include.margin | default: '0px 15px' }};
                     height: {{ include.height | default: '100%'}}
                     ">
 </div>
