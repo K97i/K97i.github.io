@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Can I use your songs in my project?"
-date: 2023-05-23
+date: 2024-05-23
 category: K9's Rants
 description: "In which K9 talks about licensing"
 ---
