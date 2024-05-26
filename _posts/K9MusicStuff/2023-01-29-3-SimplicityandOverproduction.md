@@ -2,7 +2,7 @@
 layout: post
 title: "3 - Simplicity and Overproduction"
 date: 2023-01-29
-category: K9's Music Tips
+category: K9's Music Stuff
 description: "In which K9 talks about adding too much effort into one project file"
 ---
 
@@ -24,7 +24,7 @@ Overproduction happens when you add too much elements, and because of it, they c
 
 **For example, my song Crystalized from the Crystalized Fanalbum by the Realm of Harmony.**
 
-{% include embed-audio.html src="/assets/K9-Music-School/3-SimplicityandOverproduction/cryst - d1.mp3" %}
+{% include embed-audio.html src="/assets/K9-Music-Stuff/3-SimplicityandOverproduction/cryst - d1.mp3" %}
 
 In an attempt to fill in the empty spaces, I added waaay too much arps and chords to the project, which resulted in the mix being messy as hell, with way too much highs, and almost non-existent lows.
 

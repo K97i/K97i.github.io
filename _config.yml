@@ -42,7 +42,7 @@ minima:
 
 collections:
   posts:
-    permalink: "/:categories/:title/"
+    permalink: "/:slugified_categories/:title/"
     output: true
 
 # Exclude from processing.

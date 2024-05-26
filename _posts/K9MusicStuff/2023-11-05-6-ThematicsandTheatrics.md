@@ -2,7 +2,7 @@
 layout: post
 title: "6 - Thematics and Theatrics"
 date: 2023-11-05
-category: K9's Music Tips
+category: K9's Music Stuff
 description: "In which K9 cries over Encanto (he doesn't know what he's talking about)"
 ---
 

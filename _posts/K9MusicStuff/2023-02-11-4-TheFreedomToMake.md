@@ -2,7 +2,7 @@
 layout: post
 title: "4 - The Freedom To Make"
 date: 2023-02-11
-category: K9's Music Tips
+category: K9's Music Stuff
 description: "In which K9 talks about creating anything"
 ---
 
@@ -16,6 +16,6 @@ Don't give in to the voice inside your head telling you to not do it. Seriously,
 
 Here, I used the stab from [Gideon's Vault Hunters](https://youtu.be/oMBeaZPostM) song to start a song with wubs:
 
-{% include embed-audio.html src="/assets/K9-Music-School/4-TheFreedomToMake/vault hunters wubs.mp3" %}
+{% include embed-audio.html src="/assets/K9-Music-Stuff/4-TheFreedomToMake/vault hunters wubs.mp3" margin="0px 0px 15px 0px"%}
 
-[Remember to save your work!](/k9's music tips/2-SaveForTheFuture/)
+[Remember to save your work!](/k9-s-music-stuff/2-SaveForTheFuture/)
