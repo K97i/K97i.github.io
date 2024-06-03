@@ -4,6 +4,7 @@
                 align-items: center;
             {% endunless %}
             ">
+
     <iframe
         width="{{ include.width | default: 500 }}"
         src="https://www.youtube-nocookie.com/embed/{{ include.id }}"
@@ -11,11 +12,19 @@
         frameborder="0" 
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
         allowfullscreen
-        style="aspect-ratio: 16 / 9;
-                margin: {{ include.margin | default: '15px 0px' }};
-                {%- if include.float -%}
+        style="aspect-ratio: {{ include.aspect-ratio | default: '16 / 9' }};
+                {% if include.float %}
                     float: {{ include.float }};
                 {% endif %}
+                margin: {% if include.float %}
+                            {% if include.float == 'left' %}
+                                0px 15px 10px 0px;
+                            {% elsif include.float == 'right' %}
+                                0px 0px 5px 15px;
+                            {% endif %}
+                        {% else %}
+                            {{ include.margin | default: '0px 0px 15px 0px' }};
+                        {% endif %}
                 ">
     </iframe>
 </div>

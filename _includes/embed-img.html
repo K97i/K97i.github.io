@@ -2,14 +2,32 @@
                 display: flex; 
                 justify-content: center;
                 align-items: center;
-            {% endunless %}
-            ">
-    <img src="{{ include.src }}" alt="{{ include.alt | default: '' }}"
-            style= "{%- if include.float -%}
-                        float: {{ include.float }};
-                    {% endif %}
-                    
-                    margin: {{ include.margin | default: '0px 15px' }};
-                    height: {{ include.height | default: '100%'}}
-                    ">
+            {% endunless %}">
+
+    <a {% if include.href %}
+            href="{{ include.href }}"
+        {% endif %} >
+
+        <img    src="{{ include.src }}" 
+                style= "{% if include.float %}
+                            float: {{ include.float }};
+                        {% endif %}
+                        
+                        margin: {% if include.float %}
+                                    {% if include.float == 'left' %}
+                                        0px 15px 10px 0px;
+                                    {% elsif include.float == 'right' %}
+                                        0px 0px 5px 15px;
+                                    {% endif %}
+                                {% else %}
+                                    {{ include.margin | default: '0px 15px' }};
+                                {% endif %}
+                        width: {{ include.width | default: '100%'}};"
+                        
+                {% if include.alt %}
+                    alt="{{ include.alt | default: '' }}";
+                {% endif %}
+                
+                >
+    </a>
 </div>
