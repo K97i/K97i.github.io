@@ -83,8 +83,6 @@ I produced a *Future House* remix for Minecraft fan songwriter *Gideon*'s Middle
 
 {% include embed-yt.html id="fr1Yu2PvbGI" %}
 
-
-
 ### Non-Music
 
 I help the [Spec-ify](https://github.com/Spec-ify/) group. I'm responsible for the technical aspects of Specify's UI and I'm one of the maintainers of Specified's viewer. So if anything broke on that side of the coin, that's probably me. Sorry!
