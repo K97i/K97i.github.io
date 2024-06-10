@@ -340,7 +340,7 @@ html, body {
   text-decoration: none;
   display: inline-block;
   cursor: pointer;
-  box-shadow: 0 1px 24px lighten($color: $background-color, $amount: 15);
+  box-shadow: 0 1px 6px lighten($color: $background-color, $amount: 15);
 
   position: fixed;
   bottom: 20px;
@@ -350,6 +350,14 @@ html, body {
   opacity: 0;
   visibility: hidden;
 
-  transition: opacity 0.1s ease-in-out;
-    will-change: opacity, visibility;
+  transition: all 0.05s ease-in-out;
+    will-change: all;
+
+  path {
+    fill: #bbb;
+  }
+
+  &:hover {
+    background-color: lighten($background-color, 12%);
+  }
 }
