@@ -20,7 +20,7 @@ This is going to be a *lengthy* blog post, so buckle up.
 
 <details id="toc" markdown="block">
   <summary>
-    Table of Contents (Yes, it's THAT long.)
+	Table of Contents (Yes, it's THAT long.)
   </summary>
   {: .text-delta }
 > 1. TOC
@@ -37,7 +37,7 @@ This is going to be a *lengthy* blog post, so buckle up.
 
 In October of 2022, before the release of Farewell to the Sea, I started working on a Future House instrumental that would eventually become the instrumental to *Compatible Now*.
 
-I pitched it to the Realm of Harmony group chat as a potential song regarding the PIXANE ship, and while the premise was great, the LEGO Ninjago fan album that the Realm of Harmony was working on was based on *Season 15: Crystalized*, rather than *Season 3: Rebooted* which would have been much more fitting (and, yeah I agree). Given at the time I haven't actually thought of writing the lyrics yet, it was probably the best that it wasn't immediately worked on. 
+I pitched it to the Realm of Harmony group chat as a potential song regarding the PIXANE ship, and while the premise was great, the LEGO Ninjago fan album that the Realm of Harmony was working on was based on *Season 15: Crystalized*, rather than *Season 3: Rebooted* which would have been much more fitting (and, yeah I agree). Given at the time I hadn't actually thought of writing the lyrics yet, it was probably the best that it wasn't immediately worked on.
 
 So, I let it sit in my projects folder for the time being while I think of some lyrics. On July 11, 2023, I recorded what would be the first half of the first verse for the song, which ended up entirely unchanged, but that was the extent of my work during this time period (oh, and releasing Out of Town, but that's irrelevant to the album lol).
 
@@ -61,13 +61,13 @@ I think this is when I realized:
 
 On December 12, I wrote the first version of *Face the Race* that remained largely unchanged in the final release. Three days later, I came up with the pre-chorus and chorus for *A Place We Called Home*. Then, on the 28th of December, literally just before the new year, I wrote the entirety of *Let the Water Flow*.
 
-Sometimes I'm surprised at how quickly I write these songs. In just over a month, I wrote the 4 of the songs in the album. 
+Sometimes I'm surprised at how quickly I write these songs. In just over a month, I wrote the 4 of the songs in the album.
 
 Then, the new year came around, and it was time to... actually start producing the instrumentals.
 
 ## III. Pumping faster than the speed of sound
 
-Whenever I start composing and producing an idea I have in Ableton Live, I typically don't stop the producing session until get it perfect on the first draft, which did happen with most of the songs in this album. I first started working on the instrumental for *Face the Race* on the 5th of January, 2024, then worked on *Fade Away* on the 18th, *A Place We Called Home* the following day, and *Let the Water Flow* on the 25th.
+Whenever I start composing and producing an idea I have in Ableton Live, I typically don't stop the producing session until I get it perfect on the first draft, which did happen with most of the songs in this album. I first started working on the instrumental for *Face the Race* on the 5th of January, 2024, then worked on *Fade Away* on the 18th, *A Place We Called Home* the following day, and *Let the Water Flow* on the 25th.
 
 In retrospect, it's amazing that I somehow produced such a ridiculous range of genres in just a month, especially with the hard shift from Fade Away, a *Midtempo* song to A Place We Called Home, a *Piano Ballad*.
 
@@ -77,9 +77,9 @@ Later in this blog post, I will talk about each individual track and it's detail
 
 Hyperbole.
 
-The silver HP Laptop my parents originally bought me in 2021 for my birthday (November 21) was actually a servicable laptop for both my needs. The evidence is everything I have ever made in 2022 and 2023, from my [entire Realm of Harmony discography](https://www.youtube.com/playlist?list=PLvhaMEJVluKwUHaChSubrst9q8dhxesMb), to [Soulless](https://www.youtube.com/watch?v=euBElnMTsSg) and the [After the Blackout Remix](https://www.youtube.com/watch?v=Q9XI0tw-iYM) that's somehow still getting views.
+The silver HP Laptop my parents originally bought me in 2021 for my birthday (November 21) was actually a serviceable laptop for both my needs. The evidence is everything I have ever made in 2022 and 2023, from my [entire Realm of Harmony discography](https://www.youtube.com/playlist?list=PLvhaMEJVluKwUHaChSubrst9q8dhxesMb), to [Soulless](https://www.youtube.com/watch?v=euBElnMTsSg) and the [After the Blackout Remix](https://www.youtube.com/watch?v=Q9XI0tw-iYM) that's somehow still getting views.
 
-However, over time, the design quirks of the laptop have made it increasingly harder to do more complex and layered productions. For the nerds out there, my original theory of why it became ridiculously slower over time is because of the VRMs and CPU losing its cooling capacity, making it throttle hard. This *could* have been easily be fixed by replacing the thermal pads and the thermal paste, but given HP's reputation for VRM throttling, I doubt that it would've actually helped.
+However, over time, the design quirks of the laptop have made it increasingly harder to do more complex and layered productions. For the nerds out there, my original theory of why it became ridiculously slower over time is because of the VRMs and CPU losing its cooling capacity, making it throttle hard. This *could* have been easily fixed by replacing the thermal pads and the thermal paste, but given HP's reputation for VRM throttling, I doubt that it would've actually helped.
 
 This is why when you look at the FPS counter in [k9 go kill](https://www.youtube.com/watch?v=E11AUp_6hyw), it's really low, despite the i5-1135G7 and the MX350 the laptop had.
 
@@ -113,7 +113,7 @@ With the exception of one.
 
 I actually recorded a large chunk of *Your Oni Side* before starting Recording Block 2. I just hadn't moved it to Recording Block 2.
 
-These recording blocks, or rather, recording *days* were spread out between 3-4 days. Of course, re-recordings were inevitable, but I handled that during mixing proper, re-recording certain parts when needed. Though, I think that I could have made the vocals *way* better.
+These recording blocks, or rather, recording *days* were spread out between 3-4 days. Of course, re-recordings were inevitable, but I handled that in mixing proper, re-recording certain parts when needed. Though, I think that I could have made the vocals *way* better.
 
 It was just me, my laptop, my microphone, and a silent air conditioned room.
 
@@ -131,7 +131,7 @@ I then ~~stole~~ appropriated the material from this [Stack Exchange answer](htt
 
 I rendered all of the images in 4K (3840 x 2160), which was a reasonably high resolution for my taste, with the max samples set to 128.
 
-I use *After Effects* to create the spectograms for all of my videos ever since the Home EP. I also used *Premiere Pro* for its workflow integration, so I wouldn't have to render the spectogram separately and import it to *Vegas Pro*. I rendered the actual videos in 4K at 60 frames per second, which I kind of regretted at the time. It took a bit over 6 hours to render all of the 11 videos, making my laptop sound like a jet engine.
+I use *After Effects* to create the spectrograms for all of my videos ever since the Home EP. I also used *Premiere Pro* for its workflow integration, so I wouldn't have to render the spectrogram separately and import it to *Vegas Pro*. I rendered the actual videos in 4K at 60 frames per second, which I kind of regretted at the time. It took a bit over 6 hours to render all of the 11 videos, making my laptop sound like a jet engine.
 
 Though, the i5-13420H and the RTX 4050 chugged through it like a champ!
 
@@ -139,11 +139,11 @@ Though, the i5-13420H and the RTX 4050 chugged through it like a champ!
 
 Let's just get this out of the way, I *apologize* for anyone who actually thought that something genuinely big was coming to the show!
 
-I actually wrote the script, recorded, and edited it on the same day that it was uploaded. It was simple, really. 
+I actually wrote the script, recorded, and edited it on the same day that it was uploaded. It was simple, really.
 
 I took inspiration from my friend [YaboiFoxtale](https://www.youtube.com/channel/UCrijXuPlaBRS8oOFbeGj0QA) (you might know him as Foxtale2614 or the guy who made [pythor doesnt accept](https://www.youtube.com/watch?v=NeCAFZUmtcQ)), who took inspiration from [solid jj](https://www.youtube.com/@Solidjj). I also attempted to emulate the thumbnail style of [Crusty783](https://www.youtube.com/@Crusty783) to increase the clickbaity-ness of the ad. Again, rendered in 4K at 60 fps for consistency.
 
-Both LEGO people in the video are actually modelled after me. The guy in the suit was modelled in 2022, when I actually had longer hair like that, and casually went outside in a suit. The guy in the green button shirt was modelled in 2024, when I was forced to my pre-pandemic short hair by my school's dress code. 
+Both LEGO people in the video are actually modeled after me. The guy in the suit was modeled in 2022, when I actually had longer hair like that, and casually went outside in a suit. The guy in the green button shirt was modeled in 2024, when I was forced to my pre-pandemic short hair by my school's dress code.
 
 > Obviously, I'm not putting up a picture here. I'm not gonna dox myself, I'm too traceable. You'd just have to trust me on this lol.
 
@@ -151,7 +151,7 @@ Both LEGO people in the video are actually modelled after me. The guy in the sui
 
 Now that we covered the story of how the album came to be, let's talk about the songs!
 
-The album covers a wide range of genres. From Future House with Compatible Now, to Alternative with Edge, to Rock with Let the Water Flow and Other Side, to, of course, full on Ballads with Save Myself. This is the widest range I have ever produced and it really pushes my own personal boundaries of what I'm comfortable working in. Each individual song has its own character assigned to it and each have a specific context. For example, A Place We Called Home is about Kai's relationship with his parents, Edge is about finding Wu in Season 8: Sons of Garmadon, etc.
+The album covers a wide range of genres. From Future House with Compatible Now, to Alternative with Edge, to Rock with Let the Water Flow and Other Side, to, of course, full on Ballads with Save Myself. This is the widest range I have ever produced and it really pushes my own personal boundaries of what I'm comfortable working in. Each individual song has its own character assigned to it and each has a specific context. For example, A Place We Called Home is about Kai's relationship with his parents, Edge is about finding Wu in Season 8: Sons of Garmadon, etc.
 
 Let's go over each song individually!
 
@@ -183,7 +183,7 @@ Finally, on the 8th of April, I changed it to what is in the final release.
 
 {% include embed-yt.html id="VH0CvVTfbqQ" float="left" %}
 
-Imagine I made [Keane's Somewhere Only We Know](https://www.youtube.com/watch?v=Oextk-If8HQ) more agressive and added guitars. Yeah, this is where I got the inspiration for Let the Water Flow.
+Imagine I made [Keane's Somewhere Only We Know](https://www.youtube.com/watch?v=Oextk-If8HQ) more aggressive and added guitars. Yeah, this is where I got the inspiration for Let the Water Flow.
 
 While the overall sound of Let the Water Flow is mostly from my own style of Rock as heard in [Ninja's Coda](https://www.youtube.com/watch?v=TD6ouF_6fWg), Somewhere Only We Know definitely had an influence, as you can hear from the piano, backing the track. I fully intended to have a key change at the end, as it seemed fitting for the last section to have one more surprise.
 
@@ -197,7 +197,7 @@ The reason why I didn't get a female vocalist for the song is because I wasn't a
 
 Fade Away is one of the very few songs I have done where I produced the track *before* I wrote it, which did make it harder for me to write lyrics for.
 
-Similarly to [Farther](https://www.youtube.com/watch?v=TRr15zEsTkQ) and [Soulless](https://www.youtube.com/watch?v=euBElnMTsSg), it is mainly inspired by Melodic Midtempo songs, specifically [Laszlo's Closer](https://www.youtube.com/watch?v=NNmCC4bj2q4), a song which I highly recommend you listening to. Closer is such a vibe. 
+Similarly to [Farther](https://www.youtube.com/watch?v=TRr15zEsTkQ) and [Soulless](https://www.youtube.com/watch?v=euBElnMTsSg), it is mainly inspired by Melodic Midtempo songs, specifically [Laszlo's Closer](https://www.youtube.com/watch?v=NNmCC4bj2q4), a song which I highly recommend you listening to. Closer is such a vibe.
 
 It does have some small Disco elements, like the drums in the verses, but it is mostly styled towards Melodic Midtempo.
 
@@ -207,13 +207,13 @@ I'm slightly unhappy with the final lyrics as it really was hard for me to write
 
 {% include embed-yt.html id="Bhhmnu4oEVg" float="left" %}
 
-Your Oni Side was very much unintentionally inspired by 80s disco/dancepop like Michael Jackson (specifically [Billie Jean](https://www.youtube.com/watch?v=Zi_XLOBDo_Y)). Once I realized that, I shifted the focus to doing something like it.
+Your Oni Side was very much unintentionally inspired by 80s disco/dance pop like Michael Jackson (specifically [Billie Jean](https://www.youtube.com/watch?v=Zi_XLOBDo_Y)). Once I realized that, I shifted the focus to doing something like it.
 
 I'm actually extremely happy with the mixing job that I did for the instrumental. The sub bass is really clean on my pair of cans, and overall the production is superb. Though, the vocal mix could have been a bit better.
 
 This is also the most vocally demanding song out of the entire album, as I had a lot of trouble with Lloyd's Post-chorus. I recorded the idea in falsetto, and realized it actually wasn't in my vocal range. This is why I actually recorded Your Oni Side first before starting Recording Block 2. Never again.
 
-Lyrically, it's about the entire Garmadon and Lloyd thing in Season 15: Crystalized. I'm very happy with the final lyrics, some of it are particularly clever (at least to me lol). I especially love the post-chorus; it's just a joy to sing.
+Lyrically, it's about the entire Garmadon and Lloyd thing in Season 15: Crystalized. I'm very happy with the final lyrics, some of them are particularly clever (at least to me lol). I especially love the post-chorus; it's just a joy to sing.
 
 ## Compatible Now
 
@@ -221,9 +221,9 @@ Lyrically, it's about the entire Garmadon and Lloyd thing in Season 15: Crystali
 
 When I originally made the instrumental to Compatible Now, I was actually still in my Future House phase, hence, Future House. You can actually hear a snippet in [one of my blog posts](/k9-s-music-stuff/2-SaveForTheFuture/), dated the 16th of January, 2023
 
-I asked for some comments from fellow electronic music producers in the [K-391 Discord Server](discord.gg/k391) (no, we're not related), and it garned extremely positive feedback, with only very minor tweaks suggested.
+I asked for some comments from fellow electronic music producers in the [K-391 Discord Server](discord.gg/k391) (no, we're not related), and it garnered extremely positive feedback, with only very minor tweaks suggested.
 
-It was, and probably still is the most complex drop that I have ever worked on, as there were many, and I mean MANY elements in the drop that contribute to its boppy nature. The instrumental is definitely one of my top electronic productions for its ridiculous amount of detail.
+It was, and probably still is, the most complex drop that I have ever worked on, as there were many, and I mean MANY elements in the drop that contribute to its boppy nature. The instrumental is definitely one of my top electronic productions for its ridiculous amount of detail.
 
 I actually completely rewrote the lyrics while on vacation. On the 29th of March, I sat down on a balcony table in my relative's home, and rewrote it until I was actually happy with the lyrics, because at the time, the lyrics I wrote actually sucked (sans the first half of the first verse, that one was kept from the beginning to final release).
 
@@ -245,7 +245,7 @@ I *was* going to ask YaboiFoxtale to collaborate on this track, but given that I
 
 I was actually inspired by [NewJean's Super Shy](https://www.youtube.com/watch?v=ArmDp-zijuc) for its Liquid Drum and Bass and Bubblegum Pop sound. Yes, I got inspired by a Kpop song. I'm surprised as well, considering I don't actually listen to Kpop, I just hear the genre second-hand.
 
-This is actually one of my favourite tracks that I have produced, as its actually kind of a bop, even without vocals. Even creating the track was a fun process. I'd find myself listening to the instrumental on loop for hours.
+This is actually one of my favourite tracks that I have produced, as it's actually kind of a bop, even without vocals. Even creating the track was a fun process. I'd find myself listening to the instrumental on loop for hours.
 
 Based off of the entire Lloyd and Garmadon thing in Season 1: Rise of the Snakes and Season 2: Legacy of the Green Ninja, it was actually kind of tricky to write lyrics for it.
 
@@ -269,7 +269,7 @@ The song's not great, but it's certainly not *bad*, it's just alright.
 
 {% include embed-yt.html id="oZ4DE2uVsKI" float="right" %}
 
-Remember how I don't know play a single instrument? That wasn't a lie, but that doesn't stop me from *trying*. Yes, that is actually me playing on my guitar.
+Remember how I don't know how to play a single instrument? That wasn't a lie, but that doesn't stop me from *trying*. Yes, that is actually me playing on my guitar.
 
 I consider Save Myself as the song you should absolutely listen to in the album, because it's a classic K9 sadboi song in 6/8 time signature.
 
@@ -308,7 +308,7 @@ It is true that when I first started writing Other Side, I hadn't actually seen 
 Other Side is actually the *oldest* idea in the entire album, the chorus melody and overall vibe having been originally concepted in *July of 2022*. In fact, this was the original instrumental demo, dated the 15th of July, 2022. I had made this when I was still mainly using FL Studio for my productions.
 
 > lhs thing.mp3
-> 
+>
 > {% include embed-audio.html src="/assets/K9-Rants/TFTM-Retrospective/lhs%20thing.mp3" margin="0px 0px"%}
 
 It's definitely a far cry from the final track. I wasn't knowledgeable and skilled enough to put the idea in my head into my DAW, so I just casually forgot about it, as one does.
@@ -335,7 +335,7 @@ According to Marcellus R. Meek in the DePaul Law Review in 1953:
 > Marcellus R. Meek, International Copyright and Musical Compositions, 3 DePaul L. Rev. 52 (1953)
 > Available at: [https://via.library.depaul.edu/law-review/vol3/iss1/3](https://via.library.depaul.edu/law-review/vol3/iss1/3)
 
-The melody of the Ninjago Overture can be heard in: 
+The melody of the Ninjago Overture can be heard in:
 1. Face the Race (strings in the chorus)
 2. Let the Water Flow (part of the  melody of the bridge)
 3. Fade Away (pluck in the background)
@@ -383,22 +383,22 @@ Thank you for your kind words! If you want to support me, and Tunes from the Mon
 I also have some challenges for you *just for funsies*, sorted by sheer difficulty, by easiest to hardest.
 
 > **Disclaimer**
-> 
+>
 > Do **NOT** pester anyone mentioned below. I do not need any sort of beef for a stupid reason.
 
-1. Get your favourite LEGO content creators to listen to the album, despite of how bad the album is.
+1. Get your favourite LEGO content creators to listen to the album, despite how bad the album is.
 
 2. Get someone who works or worked on Ninjago, whether they'd be a writer, a voice actor or anyone from the music team (could even be Tommy Andreasen, that'd be crazy), to listen to the album. If you somehow get one of them to listen to it, I'll throw a pizza party for myself (and respect you forever).
 
 3. Get LEGO to recognize me; which is very much ridiculous, but if we somehow got to the second challenge, this isn't really that far off, is it?
 
-4. Get Ed Sheeran to cover Save Myself. ***THIS IS ABSOLUTELY BONKERS.*** Do not pester the man about it, I don't need no restraining order or hitman on my back. I'd gladly sign the paperwork required if this did happen though. ([He does like LEGO](https://www.tiktok.com/@edsheeran/video/7266848014583549216), so this isn't so far out of left field.)
+4. Get Ed Sheeran to cover Save Myself. ***THIS IS ABSOLUTELY BONKERS.*** Do not pester the man about it, I don't need a restraining order or hitman on my back. I'd gladly sign the paperwork required if this did happen though. ([He does like LEGO](https://www.tiktok.com/@edsheeran/video/7266848014583549216), so this isn't so far out of left field.)
 
 ## What other Ninjago fan content should I watch next?
 
 If you'd like more Ninjago fan songs, check out [SOTE's YouTube channel](https://www.youtube.com/@SOTE_RoH). The Realm of Harmony is where this entire fan song journey all started, and my first few Ninjago fan songs were posted over there, so do check it out! SOTE also posts Ninjago fan songs, so go support them!
 
-If you want to have a laugh, check out [YaboiFoxtale's YouTube channel](https://www.youtube.com/@YaboiFoxTale). I can confirm that the Ninjago Trashpost series is very funny, so go bingewatch the entire series!
+If you want to have a laugh, check out [YaboiFoxtale's YouTube channel](https://www.youtube.com/@YaboiFoxTale). I can confirm that the Ninjago Trashpost series is very funny, so go binge watch the entire series!
 
 ## Did you leave the Realm of Harmony to be a competitor in this niche?
 
