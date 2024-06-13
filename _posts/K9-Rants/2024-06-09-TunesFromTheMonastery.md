@@ -221,7 +221,7 @@ Lyrically, it's about the entire Garmadon and Lloyd thing in Season 15: Crystali
 
 When I originally made the instrumental to Compatible Now, I was actually still in my Future House phase, hence, Future House. You can actually hear a snippet in [one of my blog posts](/k9-s-music-stuff/2-SaveForTheFuture/), dated the 16th of January, 2023
 
-I asked for some comments from fellow electronic music producers in the [K-391 Discord Server](discord.gg/k391) (no, we're not related), and it garnered extremely positive feedback, with only very minor tweaks suggested.
+I asked for some comments from fellow electronic music producers in the [K-391 Discord Server](https://discord.gg/k391) (no, we're not related), and it garnered extremely positive feedback, with only very minor tweaks suggested.
 
 It was, and probably still is, the most complex drop that I have ever worked on, as there were many, and I mean MANY elements in the drop that contribute to its boppy nature. The instrumental is definitely one of my top electronic productions for its ridiculous amount of detail.
 
@@ -416,7 +416,7 @@ I just released an album that required a ton of work. I need to take a MASSIVE b
 
 In the end, this album was an absolute blast to work on. Creating each and every song in the album, *that* entire experience was surreal, and opened my eyes to the world of songwriting. These past few months have been some of the toughest in my life, both because of this album, and because of personal reasons, and I can't thank everyone enough for supporting me.
 
-I'd like to thank the people over at the Foxtale Discord Server, especially [YaboiFoxtale](https://www.youtube.com/@YaboiFoxTale) and [Ninjnerd](https://www.youtube.com/@Snake_Jaguar_Nerd). Both of them have been really supportive of the project, and I appreciate their kind words. I'd also like to thank the peeps over at the [K-391 Discord Server](discord.gg/k391) (again, we are not related lol) for providing invaluable feedback for Compatible Now and Face the Race. Many thanks as well to the peeps over at [The Giddy Inn](discord.gg/BuCRtt7) Discord server for being hyped about my music!
+I'd like to thank the people over at the Foxtale Discord Server, especially [YaboiFoxtale](https://www.youtube.com/@YaboiFoxTale) and [Ninjnerd](https://www.youtube.com/@Snake_Jaguar_Nerd). Both of them have been really supportive of the project, and I appreciate their kind words. I'd also like to thank the peeps over at the [K-391 Discord Server](https://discord.gg/k391) (again, we are not related lol) for providing invaluable feedback for Compatible Now and Face the Race. Many thanks as well to the peeps over at [The Giddy Inn](https://discord.gg/BuCRtt7) Discord server for being hyped about my music!
 
 I'd like to thank the viewers who have listened to the album, for putting up with my really bad singing. The Ninjago community is truly awesome! I'd like to thank [SOTE](https://www.youtube.com/@SOTE_RoH) and the original Realm of Harmony team for veering me into the path of Ninjago Fan Songs in the first place. I wouldn't be here without all of you kicking off the Crystalized Fan Album.
 
