@@ -323,6 +323,8 @@ Time to answer some questions that future people may ask.
 
 ## Will you release the album on music streaming services? (Spotify, YouTube Music, Apple Music, etc.)
 
+> **UPDATE**: I've decided to take the risk, and release the album on music streaming services, like Spotify! You can save the album [here](https://gyro.to/TunesfromtheMonastery). If you want to see what I wrote when I first released Tunes from the Monastery, read on!
+
 ***Short answer***: Probably not, but maybe in the future.
 
 ***Really long answer***: While I would absolutely pay the 10 dollars to [CD Baby](https://cdbaby.com/) to get the album released onto streaming services when I have the time, frankly, I don't know the *legality* of this (and fan songs in general), ***especially*** if it's as *derivative* as mine.
