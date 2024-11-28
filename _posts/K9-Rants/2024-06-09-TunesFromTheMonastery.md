@@ -366,7 +366,7 @@ Maybe in the future, if I feel particularly *risky* and *lucky*, I'll send it to
 
 ## Can I use one of the songs for a video?
 
-See [Can I use your songs in my project?]({% post_url 2024-05-23-SongUsage %}).
+See [Can I use your songs in my project?]({% post_url K9-Rants/2024-05-23-SongUsage %}).
 
 TLDR: If it's for your personal project, absolutely!
 
